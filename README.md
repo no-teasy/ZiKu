@@ -24,6 +24,6 @@ MiSans Global 是由小米主导，联合蒙纳字库、汉仪字库共同打造
 
 ### [SmileySans-Oblique](https://github.com/no-teasy/ZiKu-CDN-SmileySans-Oblique?) 
 得意黑是一款在人文观感和几何特征中寻找平衡的中文黑体。整体字身窄而斜，细节融入了取法手绘美术字的特殊造型。字体支持简体中文常用字（覆盖 GB/T 2312-1980 编码字符集）、拉丁字母、西里尔字母、希腊字母、日文假名、阿拉伯数字和各类标点符号。
-###
-[ZiKu-CDN-DingTalk-JinBuTi 钉钉进步体](https://github.com/no-teasy/ZiKu-CDN-DingTalk-JinBuTi)
+
+###[ZiKu-CDN-DingTalk-JinBuTi 钉钉进步体](https://github.com/no-teasy/ZiKu-CDN-DingTalk-JinBuTi)
 钉钉进步体，一款充满活力的字体。它笔画简洁流畅，结构紧凑，富有现代感。整体风格积极向上，寓意不断进取。在视觉上具有很强的识别性，适用于多种场景，如标题、海报等，能很好地传递正能量与进取精神。
