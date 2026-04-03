@@ -27,3 +27,18 @@ MiSans Global 是由小米主导，联合蒙纳字库、汉仪字库共同打造
 
 ### [ZiKu-CDN-DingTalk-JinBuTi 钉钉进步体](https://github.com/no-teasy/ZiKu-CDN-DingTalk-JinBuTi)
 钉钉进步体，一款充满活力的字体。它笔画简洁流畅，结构紧凑，富有现代感。整体风格积极向上，寓意不断进取。在视觉上具有很强的识别性，适用于多种场景，如标题、海报等，能很好地传递正能量与进取精神。
+
+### [ZiKu-CDN-SourceHanSerif 思源宋体](https://github.com/no-teasy/ZiKu-CDN-SourceHanSerif)
+思源宋体是由 Google 与 Adobe 联合打造的开源 Pan-CJK 字体，提供高质量字形、完整字重体系和免费商用特性。
+
+### [ZiKu-CDN-SourceHanSans 思源黑体](https://github.com/no-teasy/ZiKu-CDN-SourceHanSans)
+思源黑体是由 Adobe 与 Google 联手推出的开源字体，覆盖简体中文、繁体中文、日文和韩文等多语言，提供丰富字重选择。
+
+### [ZiKu-CDN-LxgwWenkaiGB 霞鹜文楷GB](https://github.com/no-teasy/ZiKu-CDN-LxgwWenkaiGB)
+霞鹜文楷GB是一款严格遵循中国国家字形标准的开源中文字体，符合楷体书写习惯，提供免费商用授权。
+
+### [ZiKu-CDN-WenJinMincho 文津宋体](https://github.com/no-teasy/ZiKu-CDN-WenJinMincho)
+文津宋体是基于思源宋体二次开发的大字符集宋体字体套装，实现 Unicode 汉字和 IVD 字形全覆盖。
+
+### [ZiKu-CDN-WenYuanFonts 文源字体](https://github.com/no-teasy/ZiKu-CDN-WenYuanFonts)
+文源字体基于思源字体二次开发，更适合简体中文使用场景和 TeX 排版领域，采用中国大陆字形标准。
