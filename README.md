@@ -27,3 +27,18 @@ MiSans Global 是由小米主导，联合蒙纳字库、汉仪字库共同打造
 
 ### [ZiKu-CDN-DingTalk-JinBuTi 钉钉进步体](https://github.com/no-teasy/ZiKu-CDN-DingTalk-JinBuTi)
 钉钉进步体，一款充满活力的字体。它笔画简洁流畅，结构紧凑，富有现代感。整体风格积极向上，寓意不断进取。在视觉上具有很强的识别性，适用于多种场景，如标题、海报等，能很好地传递正能量与进取精神。
+
+### [思源宋体 (Source Han Serif)](https://gitcode.com/gh_mirrors/so/source-han-serif-ttf)
+思源宋体是由 Google 与 Adobe 联合打造的开源 Pan-CJK 字体，以其高质量字形、完整字重体系和免费商用特性，成为多场景设计的理想选择。作为一款支持中日韩统一表意文字的泛 CJK 字体，它包含超过 50,000 个字符，覆盖 GB2312、GBK 等主流中文字符集，同时支持繁体中文、日文假名和韩文 Hangul。采用 SIL Open Font License 1.1 协议，允许免费用于个人与商业项目。
+
+### [思源黑体 (Noto Sans CJK)](https://github.com/adobe-fonts/source-han-sans)
+思源黑体是由 Adobe 与 Google 联手推出的开源字体，覆盖简体中文、繁体中文、日文和韩文，还包含了拉丁文、希腊文和西里尔文字形，真正实现了泛东亚语言的无缝排版支持。每种字体粗细的总字形数达到了 65,535 个，整个字体家族的字形个数接近 50 万个。采用开源许可证发布，任何人都可以免费下载、使用甚至修改这款字体。
+
+### [霞鹜文楷GB](https://gitcode.com/gh_mirrors/lx/LxgwWenkaiGB)
+霞鹜文楷GB是一款严格遵循中国国家字形标准的开源中文字体，基于日本 FONTWORKS 公司 Klee One 字体改进而来，为个人和企业用户提供完全免费的商用字体解决方案。8105 个汉字支持，完整覆盖《通用规范汉字表》所有汉字。采用 SIL Open Font License 1.1 授权协议，个人和企业均可自由使用。
+
+### [文津宋体](https://github.com/takushun-wu/WenJinMincho)
+文津宋体是一套以思源宋体及其衍生版本、利用 GlyphWiki 数据和修改版 Kage 引擎生成的汉字为主进行二次开发的大字符集宋体字体套装，实现 Unicode 定义的汉字和表意文字异体数据库（IVD）注册的字形全覆盖，其中 Unicode 汉字字形主要以中国大陆地区字形标准呈现。该字体系列采用 OFL 协议，任何个人与团体均可免费商用。
+
+### [文源字体](https://github.com/takushun-wu/WenYuanFonts)
+文源字体基于思源字体进行二次开发，使之更加适合在简体中文情景下使用以及简体中文 TeX 排版领域的中文字体，开源免费商用。文源字体支持的大多数汉字（GB 18030-2022 实现级别 2 范围内全部）采用中国大陆字形标准，且非汉字符号迎合简体中文一般使用习惯。以上字体均采用 OFL 协议，任何个人与团体均可免费商用。
